@@ -22,7 +22,6 @@ BuildRequires:	libusb-devel >= 0.1.8
 BuildRequires:	libxml++-devel >= 2.6
 BuildRequires:	pkgconfig
 BuildRequires:	MySQL-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 BananaPOS server libraries, are required by the server (mysql version).
