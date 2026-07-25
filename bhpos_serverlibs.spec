@@ -4,7 +4,7 @@
 Summary:	BananaPOS bhpos server libraries
 Name:		bhpos_serverlibs
 Version:	2.0.0
-Release:	%mkrel 0.beta3.4
+Release:	1
 License:	GPL
 Group:		System/Libraries
 URL:		https://www.bananahead.com
